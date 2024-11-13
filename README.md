@@ -1,20 +1,20 @@
-# 👋 ¡Hola, soy Hanthia Blanco Gil!
+# 👋 Hi, I'm Hanthia Blanco Gil!
 
-## Desarrolladora y Apasionado por la Innovación 🚀
+## Developer and Passionate about technology and innovation. 🚀
 
-## Acerca de mí
+## About me
 
-- 🌐 Senior software developer & team Leader con enfoque en tecnologías web
+- 🌐 Senior software developer & frontend team leader with focus on web technologies 
 - 🚀 En constante aprendizaje y mejora
-- 💡 Apasionada por la creación de soluciones innovadoras
-- 👩‍💻 Aventurera tecnológica: Siempre lista para abrazar nuevas tecnologías.
-- 🌱 Clean code y buenas practicas
+- 💡 Constantly learning and improving
+- 👩‍💻 Technological adventurer: Always ready to embrace new technologies.
+- 🌱 Clean code and best practices lover
 
-## Contacto
+## Contact
 
-¡Estoy siempre abierto a nuevas oportunidades y conexiones! Puedes encontrarme en:
+I am always open to new opportunities and connections! You can find me at:
 
-- 📧 Correo Electrónico: nenablanco24@gmail.com
+- 📧 E-mail: nenablanco24@gmail.com
 - 🔗 LinkedIn: [Hanthia Blanco Gil](https://www.linkedin.com/in/hanthia-blanco-gil/)
   
-¡Hagamos cosas increíbles juntos! 🚀
+Let's do amazing things together! 🚀
